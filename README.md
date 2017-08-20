@@ -7,5 +7,4 @@ To view the tutorial, visit -
 
 Included in this repo are the
 - IPython Notebook
-- Python Script
 - Notebook HTML Page
