@@ -20,9 +20,10 @@ ___
 An HTML version of the entire notebook, with results and visualizations, is available here -
 https://cdn.patricktriest.com/blog/images/posts/crypto-markets/Cryptocurrency-Pricing-Analysis.html
 
-Included in this repo are the
+Included in this repository are the
 - IPython Notebook
 - Notebook HTML Page
+- Pre-rendered charts (PNG and HTML)
 
 This Python notebook is 100% open-source, feel free to utilize the code however you would like.
 ```
