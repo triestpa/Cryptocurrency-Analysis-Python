@@ -1,5 +1,4 @@
-## Cryptocurrency Python Analysis
-
+# Analyzing Cryptocurrency Markets Using Python
 ## A Data-Driven Approach To Cryptocurrency Speculation
 
 *How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values?  Are the markets for different altcoins inseparably linked or largely independent?  **How can we predict what will happen next?***
