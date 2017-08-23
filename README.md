@@ -22,6 +22,7 @@ https://cdn.patricktriest.com/blog/images/posts/crypto-markets/Cryptocurrency-Pr
 
 Included in this repository are the
 - IPython Notebook
+- Notebook Python File
 - Notebook HTML Page
 - Pre-rendered charts (PNG and HTML)
 
