@@ -214,7 +214,7 @@ def df_scatter(df, title, seperate_y_axis=False, y_axis_label='', scale='linear'
         showticklabels=False,
         type=scale )
     
-    visibility = 'visible'
+    visibility = True
     if initial_hide:
         visibility = 'legendonly'
         
@@ -441,7 +441,7 @@ combined_df_2016.pct_change().corr(method='pearson')
 def correlation_heatmap(df, title, absolute_bounds=True):
     '''Plot a correlation heatmap for the entire dataframe'''
     heatmap = go.Heatmap(
-        z=df.corr(method='pearson').as_matrix(),
+        z=df.corr(method='pearson').values,
         x=df.columns,
         y=df.columns,
         colorbar=dict(title='Pearson Coefficient'),
